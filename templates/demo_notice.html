@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% load i18n %}{% block title %}{% translate "Veřejná ukázka" %}{% endblock %}{% block content %}<section class="panel notice-page"><p class="eyebrow">PC WORKBASE / DEMO</p><h1>{{ notice_title }}</h1><p>{{ demo_message }}</p><a class="button primary" href="{% url 'dashboard' %}">{% translate "Zpět na přehled" %}</a></section>{% endblock %}

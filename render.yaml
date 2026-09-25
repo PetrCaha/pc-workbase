@@ -1,0 +1,21 @@
+services:
+  - type: web
+    name: pc-workbase
+    runtime: python
+    plan: starter
+    buildCommand: bash build.sh
+    startCommand: python manage.py verify_demo && gunicorn config.wsgi:application --timeout 30 --workers 1 --threads 2 --bind 0.0.0.0:$PORT
+    healthCheckPath: /health/
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.13
+      - key: DEBUG
+        value: "false"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_URL
+        sync: false
+      - key: ALLOWED_HOSTS
+        sync: false
+      - key: CSRF_TRUSTED_ORIGINS
+        sync: false

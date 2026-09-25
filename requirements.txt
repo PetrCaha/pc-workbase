@@ -1,0 +1,8 @@
+Django==5.2.17
+djangorestframework==3.16.1
+reportlab==4.5.1
+dj-database-url>=2.3,<4
+gunicorn>=23,<24
+psycopg[binary]>=3.2,<4
+whitenoise[brotli]>=6.8,<7
+pypdf>=6,<7

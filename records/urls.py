@@ -1,0 +1,33 @@
+from django.urls import path
+from . import views
+
+urlpatterns = [
+    path('', views.dashboard, name='dashboard'),
+    path('zakaznici/', views.customer_list, name='customer-list'),
+    path('zakaznici/novy/', views.customer_form, name='customer-create'),
+    path('ares/hledat/', views.ares_search, name='ares-search'),
+    path('zakaznici/<int:pk>/', views.customer_detail, name='customer-detail'),
+    path('zakaznici/<int:pk>/upravit/', views.customer_form, name='customer-update'),
+    path('zakaznici/<int:pk>/smazat/', views.customer_delete, name='customer-delete'),
+    path('zakaznici/<int:pk>/archivovat/', views.customer_archive, name='customer-archive'),
+    path('zakaznici/<int:customer_pk>/kontakty/novy/', views.contact_form, name='contact-create'),
+    path('zakaznici/<int:customer_pk>/kontakty/<int:pk>/upravit/', views.contact_form, name='contact-update'),
+    path('zakaznici/<int:customer_pk>/kontakty/<int:pk>/smazat/', views.contact_delete, name='contact-delete'),
+    path('zakazky/', views.job_list, name='job-list'),
+    path('zakazky/nova/', views.job_form, name='job-create'),
+    path('zakazky/export.csv', views.jobs_csv, name='jobs-csv'),
+    path('zakazky/<int:pk>/', views.job_detail, name='job-detail'),
+    path('zakazky/<int:pk>/upravit/', views.job_form, name='job-update'),
+    path('zakazky/<int:pk>/zmenit-zakaznika/', views.job_transfer, name='job-transfer'),
+    path('zakazky/<int:pk>/smazat/', views.job_delete, name='job-delete'),
+    path('zakazky/<int:pk>/archivovat/', views.job_archive, name='job-archive'),
+    path('zakazky/<int:pk>/pdf/', views.job_pdf, name='job-pdf'),
+    path('zakazky/<int:job_pk>/faktury/nova/', views.invoice_scan, name='invoice-scan'),
+    path('zakazky/<int:job_pk>/faktury/nova/ulozit/', views.invoice_form, name='invoice-create'),
+    path('zakazky/<int:job_pk>/faktury/<int:invoice_pk>/', views.invoice_detail, name='invoice-detail'),
+    path('zakazky/<int:job_pk>/faktury/<int:invoice_pk>/upravit/', views.invoice_form, name='invoice-update'),
+    path('zakazky/<int:job_pk>/faktury/<int:invoice_pk>/smazat/', views.invoice_delete, name='invoice-delete'),
+    path('uzivatele/', views.user_list, name='user-list'),
+    path('uzivatele/novy/', views.user_create, name='user-create'),
+    path('uzivatele/<int:pk>/upravit/', views.user_update, name='user-update'),
+]

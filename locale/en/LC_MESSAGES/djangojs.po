@@ -1,0 +1,1178 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\nPlural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "+ Nová zakázka"
+msgstr "+ New job"
+
+msgid "+ Nový zákazník"
+msgstr "+ New customer"
+
+msgid "+ Přidat kontakt"
+msgstr "+ Add contact"
+
+msgid "+ Zakázka"
+msgstr "+ Job"
+
+msgid ". Fotografie ani PDF nejsou uložené."
+msgstr ". Original images and PDFs are not stored."
+
+msgid ". Pokud tuto operaci potřebujete provést, obraťte se na administrátora Zakázkovníku."
+msgstr ". This action is not available in the public demonstration."
+
+msgid ". Změnu proveď jen při chybném založení."
+msgstr ". Reassign only if the original customer was selected incorrectly."
+
+msgid "01 · Prohlédněte zakázku"
+msgstr "01 · Explore a job"
+
+msgid "02 · Vyzkoušejte formulář"
+msgstr "02 · Try a form"
+
+msgid "03 · Najděte souvislosti"
+msgstr "03 · See how it connects"
+
+msgid "ARES je momentálně nedostupný. Údaje lze vyplnit ručně."
+msgstr "Company lookup is unavailable. Enter the details manually."
+
+msgid "ARES požadavek odmítl."
+msgstr "Company lookup declined the request."
+
+msgid "Administrátor"
+msgstr "Owner"
+
+msgid "Adresa"
+msgstr "Address"
+
+msgid "Adresa dodavatele"
+msgstr "Supplier address"
+
+msgid "Akce"
+msgstr "Actions"
+
+msgid "Akce není povolena"
+msgstr "Action unavailable"
+
+msgid "Aktivní"
+msgstr "Active"
+
+msgid "Aktivní zákazníci"
+msgstr "Active customers"
+
+msgid "Aktivní účet"
+msgstr "Active account"
+
+msgid "Ano"
+msgstr "Yes"
+
+msgid "Archivace"
+msgstr "Archived"
+
+msgid "Archivace zákazníka"
+msgstr "Customer archived"
+
+msgid "Archivované"
+msgstr "Archived"
+
+msgid "Archivovaný"
+msgstr "Archived"
+
+msgid "Archivovat zakázku"
+msgstr "Archive job"
+
+msgid "Archivovat zákazníka"
+msgstr "Archive customer"
+
+msgid "Archivováno"
+msgstr "Archived"
+
+msgid "Bez popisu."
+msgstr "No description."
+
+msgid "Bez čísla"
+msgstr "No number"
+
+msgid "Bez čísla faktury"
+msgstr "No invoice number"
+
+msgid "Celkem"
+msgstr "Total"
+
+msgid "Celkem k úhradě"
+msgstr "Total payable"
+
+msgid "Cena"
+msgstr "Price"
+
+msgid "DPH"
+msgstr "VAT"
+
+msgid "DUZP"
+msgstr "Tax point"
+
+msgid "Datum splatnosti"
+msgstr "Due date"
+
+msgid "Datum vystavení"
+msgstr "Issue date"
+
+msgid "Datum zdanitelného plnění"
+msgstr "Tax point date"
+
+msgid "Datum úhrady"
+msgstr "Payment date"
+
+msgid "Detail"
+msgstr "Details"
+
+msgid "Dodavatel"
+msgstr "Supplier"
+
+msgid "Dodavatel a odběratel"
+msgstr "Supplier and customer"
+
+msgid "Doklad"
+msgstr "Invoice details"
+
+msgid "Doklady u konkrétní zakázky"
+msgstr "Documents connected to a job"
+
+msgid "Dokončena"
+msgstr "Completed"
+
+msgid "Dokončeno"
+msgstr "Completed on"
+
+msgid "Dokončenou zakázku nelze trvale odstranit. Lze ji archivovat."
+msgstr "A completed job cannot be permanently deleted. It can be archived."
+
+msgid "Dokončená starší zakázka uložená v archivu."
+msgstr "An older completed job retained in the archive."
+
+msgid "Dokončené"
+msgstr "Completed"
+
+msgid "Dokončené zakázky"
+msgstr "Completed jobs"
+
+msgid "Doplnění ochranných hran a úprava výšky dvou pracovních stolů."
+msgstr "Fit protective edges and adjust the height of two workbenches."
+
+msgid "Dílenská 1, Modelov (smyšlená adresa)"
+msgstr "1 Workshop Street, Modelov (fictional address)"
+
+msgid "Důvod změny"
+msgstr "Reason for change"
+
+msgid "Důvod zrušení"
+msgstr "Cancellation reason"
+
+msgid "Důvod:"
+msgstr "Reason:"
+
+msgid "E-mail"
+msgstr "Email"
+
+msgid "Export CSV"
+msgstr "Export CSV"
+
+msgid "Faktura"
+msgstr "Invoice"
+
+msgid "Faktura byla uložena. Původní snímek se neukládá."
+msgstr "Invoice details saved. The original image is not stored."
+
+msgid "Fakturace"
+msgstr "Billing"
+
+msgid "Faktury"
+msgstr "Invoices"
+
+msgid "Faktury ("
+msgstr "Invoices ("
+
+msgid "Filtrovat"
+msgstr "Apply filters"
+
+msgid "Fotografie nebo PDF faktury"
+msgstr "Invoice photo or PDF"
+
+msgid "Fotografii se nepodařilo přečíst v telefonu. Zkuste stránku obnovit a snímek pořídit znovu."
+msgstr "The image could not be read. Reload the page and try again."
+
+msgid "Funkce"
+msgstr "Contact role"
+
+msgid "Historie změn"
+msgstr "Change history"
+
+msgid "Historie změn zákazníka ("
+msgstr "Customer change history ("
+
+msgid "Historie – zrušené a archivované ("
+msgstr "History — cancelled and archived ("
+
+msgid "Hlavní"
+msgstr "Primary"
+
+msgid "Hlavní kontakt"
+msgstr "Primary contact"
+
+msgid "Hlavní navigace"
+msgstr "Main navigation"
+
+msgid "Hledat zakázku"
+msgstr "Search jobs"
+
+msgid "Hledat zákazníka"
+msgstr "Search customers"
+
+msgid "Hodil by se vám podobný pracovní prostor?"
+msgstr "Could your team use a workspace like this?"
+
+msgid "Hodnota zakázek"
+msgstr "Job value"
+
+msgid "Instalace pracovního osvětlení nad montážním stolem. Před zahájením potvrdit rozmístění."
+msgstr "Install task lighting above the workbench. Confirm the layout before starting."
+
+msgid "Instalace tří polic pro vystavení lehkého zboží. Provozovna převzata uklizená."
+msgstr "Install three shelves for lightweight displays. Work area handed over clean and tidy."
+
+msgid "IČO"
+msgstr "Company ID"
+
+msgid "IČO dodavatele"
+msgstr "Supplier company ID"
+
+msgid "IČO musí obsahovat přesně 8 číslic."
+msgstr "The company ID must contain exactly 8 digits."
+
+msgid "Jazyk"
+msgstr "Language"
+
+msgid "Jednatel"
+msgstr "Company representative"
+
+msgid "Jiná"
+msgstr "Other"
+
+msgid "Jméno"
+msgstr "Name"
+
+msgid "Jméno / název firmy"
+msgstr "Name / company name"
+
+msgid "Jméno a příjmení"
+msgstr "Full name"
+
+msgid "Jméno, firma nebo kontakt"
+msgstr "Name, company or contact"
+
+msgid "K této zakázce zatím není uložená žádná faktura."
+msgstr "There are no invoices for this job yet."
+
+msgid "KAŽDÝ VÍ, CO MÁ NA STAROSTI"
+msgstr "EVERYONE KNOWS THEIR RESPONSIBILITIES"
+
+msgid "KONTAKTY A SOUVISLOSTI"
+msgstr "CONTACTS AND CONNECTIONS"
+
+msgid "Kabelové vedení"
+msgstr "Cable routing"
+
+msgid "Kontakt"
+msgstr "Contact"
+
+msgid "Kontakt pro zakázku"
+msgstr "Customer contact for this job"
+
+msgid "Kontakt ↗"
+msgstr "Contact ↗"
+
+msgid "Kontaktní osoby"
+msgstr "Contact people"
+
+msgid "Kontaktní údaje i historie zakázek na jednom místě."
+msgstr "Contact details and job history in one place."
+
+msgid "Kontakty se nepodařilo načíst. Obnovte stránku a zkuste to znovu."
+msgstr "Contacts could not be loaded. Reload the page and try again."
+
+msgid "Kontrola faktury"
+msgstr "Review invoice"
+
+msgid "MONTÁŽE & SERVIS"
+msgstr "INSTALLATION & SERVICE"
+
+msgid "Majitel"
+msgstr "Owner"
+
+msgid "Modelov (smyšlené město)"
+msgstr "Modelov (fictional town)"
+
+msgid "Montáž osvětlení"
+msgstr "Lighting installation"
+
+msgid "Montáž polic"
+msgstr "Shelf installation"
+
+msgid "Montáž pracovního pultu a polic v zázemí kavárny. Rozměry jsou potvrzené, materiál připravený. Vstup domluven před otevřením v 7:00."
+msgstr "Install a worktop and shelves in the cafe back room. Dimensions confirmed and materials ready. Access agreed for 7:00 before opening."
+
+msgid "Montáž regálů"
+msgstr "Storage rack installation"
+
+msgid "Montáže Modelov — ukázkový tým"
+msgstr "Modelov Installations — fictional team"
+
+msgid "Montáže a servis provozoven"
+msgstr "Installation and servicing for small businesses"
+
+msgid "Mám zájem o podobné řešení ↗"
+msgstr "I'd like a similar solution ↗"
+
+msgid "Měna"
+msgstr "Currency"
+
+msgid "Město"
+msgstr "Town"
+
+msgid "NEVÍTE, KDE ZAČÍT?"
+msgstr "NOT SURE WHERE TO START?"
+
+msgid "Na snímku se nepodařilo najít dostatek textu. Vyfoťte fakturu znovu zblízka."
+msgstr "Not enough text was found. Take a closer picture of the invoice."
+
+msgid "Nahrávání vlastních souborů je v této ukázce vypnuté."
+msgstr "Uploading your own files is disabled in this demo."
+
+msgid "Naposledy upravil"
+msgstr "Last updated by"
+
+msgid "Naskenovat fakturu"
+msgstr "Scan invoice"
+
+msgid "Načítám…"
+msgstr "Loading…"
+
+msgid "Ne"
+msgstr "No"
+
+msgid "Neaktivní"
+msgstr "Inactive"
+
+msgid "Nechte prázdné, pokud heslo nechcete měnit."
+msgstr "Leave blank to keep the current password."
+
+msgid "Nová"
+msgstr "New"
+
+msgid "Nová faktura"
+msgstr "New invoice"
+
+msgid "Nová zakázka"
+msgstr "New job"
+
+msgid "Nové heslo"
+msgstr "New password"
+
+msgid "Nové heslo znovu"
+msgstr "Confirm new password"
+
+msgid "Nový kontakt"
+msgstr "New contact"
+
+msgid "Nový uživatel"
+msgstr "New user"
+
+msgid "Nový zákazník"
+msgstr "New customer"
+
+msgid "Náhled"
+msgstr "Preview"
+
+msgid "Náhled faktury"
+msgstr "Invoice preview"
+
+msgid "Náhled se nepodařilo načíst. Obnovte stránku nebo otevřete detail."
+msgstr "The preview could not be loaded. Reload the page or open the details."
+
+msgid "Název"
+msgstr "Name"
+
+msgid "Název zakázky"
+msgstr "Job title"
+
+msgid "Níže zároveň vidíte, která pole by bylo potřeba opravit."
+msgstr "The fields below also show what would need correcting."
+
+msgid "OCR není účetní kontrola."
+msgstr "Recognised text still needs checking."
+
+msgid "OCR se nepodařilo dokončit. Zkuste menší nebo ostřejší snímek."
+msgstr "The document could not be read. Try a smaller or sharper image."
+
+msgid "OD DOMLUVY K DOKONČENÍ"
+msgstr "FROM FIRST AGREEMENT TO FINISHED JOB"
+
+msgid "Objednatel"
+msgstr "Ordering contact"
+
+msgid "Obnovení"
+msgstr "Restored"
+
+msgid "Obnovení zákazníka"
+msgstr "Customer restored"
+
+msgid "Obnovit zakázku"
+msgstr "Restore job"
+
+msgid "Obnovit zákazníka"
+msgstr "Restore customer"
+
+msgid "Od kontaktu se zákazníkem až po dokončení zakázky."
+msgstr "From the first customer conversation to a completed job."
+
+msgid "Od první domluvy"
+msgstr "From the first agreement"
+
+msgid "Odběratel"
+msgstr "Customer"
+
+msgid "Odběratel / hlavička"
+msgstr "Customer / billing details"
+
+msgid "Odpovědná osoba"
+msgstr "Responsible person"
+
+msgid "Odstranit"
+msgstr "Delete"
+
+msgid "Odstranění faktury"
+msgstr "Invoice deleted"
+
+msgid "Odstranění kontaktu"
+msgstr "Contact deleted"
+
+msgid "Oprava pracovního pultu"
+msgstr "Worktop repair"
+
+msgid "Oprávnění"
+msgstr "Access"
+
+msgid "Opustit demo"
+msgstr "Leave demo"
+
+msgid "Otevřené"
+msgstr "Open"
+
+msgid "Otevřené zakázky"
+msgstr "Open jobs"
+
+msgid "Otevřít ukázkovou zakázku"
+msgstr "Explore the sample job"
+
+msgid "PC WORKBASE / VEŘEJNÁ UKÁZKA"
+msgstr "PC WORKBASE / PUBLIC DEMO"
+
+msgid "PC WORKBASE · Portfolio demo"
+msgstr "PC WORKBASE · Portfolio demo"
+
+msgid "POSLEDNÍ ZÁZNAMY"
+msgstr "RECENT RECORDS"
+
+msgid "PRACOVNÍ PROSTOR"
+msgstr "WORKSPACE"
+
+msgid "PROSTOR PRO DOBROU PRÁCI"
+msgstr "ROOM FOR GOOD WORK"
+
+msgid "PSČ"
+msgstr "Postcode"
+
+msgid "Platba"
+msgstr "Payment method"
+
+msgid "Po splatnosti"
+msgstr "Overdue"
+
+msgid "Po uložení bude kontakt dostupný také u dalších zakázek tohoto zákazníka."
+msgstr "In normal use, the saved contact would also be available for this customer's other jobs."
+
+msgid "Položka"
+msgstr "Item"
+
+msgid "Položky nebyly rozpoznány nebo doplněny."
+msgstr "No line items have been entered."
+
+msgid "Popis"
+msgstr "Description"
+
+msgid "Poslední zakázky"
+msgstr "Recent jobs"
+
+msgid "Poslední změna"
+msgstr "Last updated"
+
+msgid "Potvrdit změnu"
+msgstr "Confirm change"
+
+msgid "Použijte obrázek JPG, PNG, WebP nebo PDF."
+msgstr "Use a JPG, PNG, WebP image or PDF."
+
+msgid "Použít snímek a přečíst"
+msgstr "Read this image"
+
+msgid "Poznámka"
+msgstr "Note"
+
+msgid "Počet zakázek"
+msgstr "Number of jobs"
+
+msgid "Požadavek se nepodařilo přečíst. Zkuste stránku otevřít znovu."
+msgstr "We could not read this request. Please reopen the page."
+
+msgid "Pracovní pult a police, materiál a montáž."
+msgstr "Worktop and shelves, materials and installation."
+
+msgid "Pracovní stůl s nářadím v připravované provozovně"
+msgstr "Tools on a workbench during a cafe fit-out"
+
+msgid "Pracovníci"
+msgstr "Team"
+
+msgid "Pracovníci a jejich role"
+msgstr "Team and roles"
+
+msgid "Pracovník"
+msgstr "Team member"
+
+msgid "Pro uložení nového kontaktu doplňte jméno a příjmení."
+msgstr "Enter a full name for the new contact."
+
+msgid "Probíhá"
+msgstr "In progress"
+
+msgid "Prohlédněte si práci malého montážního týmu. Bez registrace a bez hesla."
+msgstr "Explore a small installation team's workspace. No registration or password needed."
+
+msgid "Prohlíží údaje, zakládá zakázky a kontakty a doplňuje provozní informace. Přehled není omezen jen na jeho zakázky."
+msgstr "Views records, creates jobs and contacts, and updates operational details. Access is not limited to their assigned jobs."
+
+msgid "Projděte si zákazníka, odpovědnou osobu, termín, cenu a související fakturu na jedné konkrétní zakázce."
+msgstr "See the customer, responsible person, deadline, price and related invoice together in one sample job."
+
+msgid "Práce a materiál"
+msgstr "Work and materials"
+
+msgid "Práce, materiál a cena"
+msgstr "Work, materials and price"
+
+msgid "Přehled"
+msgstr "Overview"
+
+msgid "Přehled práce"
+msgstr "Work overview"
+
+msgid "Přejít na obsah"
+msgstr "Skip to content"
+
+msgid "Překontrolujte hlavně číslo faktury, data a částky. Chybné nebo nerozpoznané údaje doplňte ručně."
+msgstr "Check the invoice number, dates and amounts. Correct missing or incorrect details manually."
+
+msgid "Při prvním použití se stáhne český jazykový model. Může to trvat desítky sekund."
+msgstr "The first use downloads a Czech language model. This may take a while."
+
+msgid "Přidat další"
+msgstr "Add another"
+
+msgid "Přidat fakturu"
+msgstr "Add invoice"
+
+msgid "Přidání faktury"
+msgstr "Invoice added"
+
+msgid "Přidání kontaktu"
+msgstr "Contact added"
+
+msgid "Příprava rozměrů a návrhu úložných polic pro recepci."
+msgstr "Prepare measurements and a storage shelf layout for the reception area."
+
+msgid "Původní rozpoznaný text"
+msgstr "Original recognised text"
+
+msgid "Původní text rozpoznaný ze souboru"
+msgstr "Original text read from the document"
+
+msgid "ROZPRACOVÁNO A NAPLÁNOVÁNO"
+msgstr "IN PROGRESS AND PLANNED"
+
+msgid "Role"
+msgstr "Role"
+
+msgid "Rozměry potvrzeny, tým může zahájit montáž."
+msgstr "Measurements confirmed. The team can begin installation."
+
+msgid "Rychlý náhled"
+msgstr "Quick preview"
+
+msgid "Servis dveří"
+msgstr "Door servicing"
+
+msgid "Sestavení a kotvení regálů pro lehký materiál. Zbývá dokončit poslední sekci."
+msgstr "Assemble and anchor storage racks for lightweight materials. The last section remains to be completed."
+
+msgid "Sestupně"
+msgstr "Descending"
+
+msgid "Seznam zakázek"
+msgstr "Job list"
+
+msgid "Seznam zákazníků"
+msgstr "Customer list"
+
+msgid "Seřízení dveří a výměna těsnění."
+msgstr "Door adjustment and seal replacement."
+
+msgid "Seřízení závěsů a výměna těsnění. Předáno kontaktní osobě bez připomínek."
+msgstr "Adjust hinges and replace seals. Handed over to the customer contact without issues."
+
+msgid "Slouží ke kontrole, když OCR některý údaj nezařadilo správně."
+msgstr "Use this to check details that were not recognised correctly."
+
+msgid "Smyšlená data. Formuláře si vyzkoušíte, změny se neukládají."
+msgstr "Fictional data. Try the forms; changes are not saved."
+
+msgid "Smyšlený doklad pro portfolio. Nejde o výzvu k platbě."
+msgstr "Fictional portfolio document. This is not a payment request."
+
+msgid "Smyšlený zákazník pro ukázku pracovního prostoru."
+msgstr "Fictional customer for this workspace demonstration."
+
+msgid "Směr"
+msgstr "Direction"
+
+msgid "Soubor je větší než 10 MB. Vyfoťte fakturu v nižším rozlišení."
+msgstr "The file exceeds 10 MB. Use a lower-resolution image."
+
+msgid "Souhrn"
+msgstr "Summary"
+
+msgid "Souhrn ceny"
+msgstr "Price summary"
+
+msgid "Splatnost"
+msgstr "Due date"
+
+msgid "Spravuje všechny údaje i uživatele. V ukázce si jeho pohled prohlížíte bez možnosti ukládání."
+msgstr "Manages all records and users. This demo shows the owner's view without saving changes."
+
+msgid "Správce"
+msgstr "Manager"
+
+msgid "Starší montáž stojanu"
+msgstr "Archived display stand installation"
+
+msgid "Stav"
+msgstr "Status"
+
+msgid "Stav zákazníka"
+msgstr "Customer status"
+
+msgid "Stav úhrady"
+msgstr "Payment status"
+
+msgid "Stránka vypršela. Obnovte ji a zkuste to znovu."
+msgstr "This page has expired. Reload it and try again."
+
+msgid "Stáhnout PDF"
+msgstr "Download PDF"
+
+msgid "Systém"
+msgstr "System"
+
+msgid "Takový kontakt už je u zákazníka uložený. Vyberte ho z nabídky."
+msgstr "This contact already exists for the customer. Select it from the list."
+
+msgid "Tato akce je v ukázce vypnutá."
+msgstr "This action is disabled in the demo."
+
+msgid "Technický kontakt"
+msgstr "Technical contact"
+
+msgid "Telefon"
+msgstr "Phone"
+
+msgid "Termín"
+msgstr "Deadline"
+
+msgid "Text není uložen."
+msgstr "No text stored."
+
+msgid "Trvale odstranit"
+msgstr "Delete permanently"
+
+msgid "Trvale odstranit fakturu"
+msgstr "Delete invoice permanently"
+
+msgid "Tuto akci nemáte povolenou"
+msgstr "This action is not available"
+
+msgid "Tuto stránku jsme nenašli."
+msgstr "We could not find this page."
+
+msgid "U této zakázky zatím není zaznamenaná žádná změna."
+msgstr "No changes have been recorded for this job yet."
+
+msgid "UKÁZKA"
+msgstr "DEMO"
+
+msgid "UKÁZKOVÝ DOKLAD — BEZ PLATEBNÍCH ÚDAJŮ"
+msgstr "SAMPLE DOCUMENT — NO PAYMENT DETAILS"
+
+msgid "Uhrazena"
+msgstr "Paid"
+
+msgid "Ukládání originálních souborů zde není implementováno. Nahrávání vlastních souborů je vypnuté."
+msgstr "Original file storage is not implemented here. Uploading your own files is disabled."
+
+msgid "Ukázka je dočasně nedostupná. Zkuste to za chvíli."
+msgstr "The demo is temporarily unavailable. Please try again shortly."
+
+msgid "Ukázková kontaktní osoba, nejde o skutečný kontakt."
+msgstr "Fictional contact person. These are not real contact details."
+
+msgid "Ukázkové termíny a stavy plateb odpovídají datu"
+msgstr "Sample deadlines and payment statuses are shown as of"
+
+msgid "Ukázkoví pracovníci"
+msgstr "Sample team members"
+
+msgid "Ukázkový bankovní převod — neplaťte"
+msgstr "Sample bank transfer — do not pay"
+
+msgid "Ukázkový tým"
+msgstr "Sample team"
+
+msgid "Ukázkový tým. Ve veřejném demu se účty ani oprávnění nemění."
+msgstr "A fictional team. Accounts and permissions cannot be changed in this public demo."
+
+msgid "Ulice a číslo"
+msgstr "Street and number"
+
+msgid "Uloženo"
+msgstr "Recorded"
+
+msgid "Uložené kontakty mohou upravovat pouze správci a administrátoři."
+msgstr "Only managers and owners can edit existing contacts."
+
+msgid "Uložený kontakt pro zakázku"
+msgstr "Existing customer contact"
+
+msgid "Uložit"
+msgstr "Save"
+
+msgid "Uložit zkontrolované údaje"
+msgstr "Save reviewed details"
+
+msgid "Upravit"
+msgstr "Edit"
+
+msgid "Upravit fakturu"
+msgstr "Edit invoice"
+
+msgid "Upravit kontakt"
+msgstr "Edit contact"
+
+msgid "Upravit zakázku"
+msgstr "Edit job"
+
+msgid "Upravit zákazníka"
+msgstr "Edit customer"
+
+msgid "Upravuje a archivuje záznamy. Nespravuje uživatele a trvale nemaže."
+msgstr "Edits and archives records. Cannot manage users or delete records permanently."
+
+msgid "Uživatel"
+msgstr "User"
+
+msgid "V běžném provozu je pracovní prostor přístupný jen přihlášenému týmu. Tady vstoupíte do bezpečné ukázky se smyšlenými údaji."
+msgstr "A working workspace is accessible only to its signed-in team. Here you enter a safe demonstration with fictional data."
+
+msgid "V této ukázce najdete údaje z faktur. Uchovávání originálních souborů lze doplnit v řešení na míru, abyste nemuseli dokumenty hledat v e-mailu nebo šanonu."
+msgstr "This demo contains invoice details. A tailored solution could also store original documents, so you would not need to search through emails or folders."
+
+msgid "V této části nejsou žádné zakázky."
+msgstr "There are no jobs in this section."
+
+msgid "VYZKOUŠEJTE SI POSTUP"
+msgstr "TRY THE WORKFLOW"
+
+msgid "Variabilní symbol"
+msgstr "Payment reference"
+
+msgid "Vedoucí"
+msgstr "Manager"
+
+msgid "Veřejná ukázka"
+msgstr "Public demo"
+
+msgid "Vlastní účet nemůžete deaktivovat."
+msgstr "You cannot deactivate your own account."
+
+msgid "Vlastnímu účtu nemůžete odebrat roli administrátora."
+msgstr "You cannot remove your own owner role."
+
+msgid "Volitelné. Uloží se do historie této úpravy."
+msgstr "Optional. In normal use, this would appear in the change history."
+
+msgid "Vstoupit s demo účtem"
+msgstr "Enter with a demo account"
+
+msgid "Vstup do pracovního prostoru"
+msgstr "Enter the workspace"
+
+msgid "Vyberte buď uložený kontakt, nebo zadejte nový kontakt ručně."
+msgstr "Select an existing contact or enter a new one, not both."
+
+msgid "Vyberte uložený kontakt, nebo níže založte nový. Nevyplňujte obě možnosti současně."
+msgstr "Select an existing contact or enter a new contact below. Do not complete both options."
+
+msgid "Vybraný kontakt nepatří tomuto zákazníkovi."
+msgstr "The selected contact does not belong to this customer."
+
+msgid "Vybrat obrázek nebo PDF"
+msgstr "Choose an image or PDF"
+
+msgid "Vyfotit fakturu"
+msgstr "Photograph invoice"
+
+msgid "Vyfotit znovu"
+msgstr "Take another photo"
+
+msgid "Vyfoťte fakturu nebo vyberte PDF."
+msgstr "Take an invoice photo or choose a PDF."
+
+msgid "Vyfoťte fakturu rovně, bez stínů a tak, aby vyplnila celý snímek. Fotografie se přečte přímo v telefonu a na server odejde jen rozpoznaný text. Vybrané PDF aplikace neuloží."
+msgstr "Take a straight, well-lit photo of the invoice. The photo is read on your device; only recognised text is sent to the server. PDFs are not stored."
+
+msgid "Vyplňte pole stejně jako při běžné práci. Do ukázky zadávejte pouze smyšlené údaje."
+msgstr "Fill in the fields as you would during normal work. Please use fictional details only."
+
+msgid "Vystavení"
+msgstr "Issued"
+
+msgid "Vytvořeno"
+msgstr "Created"
+
+msgid "Vytvořil"
+msgstr "Created by"
+
+msgid "Vzestupně"
+msgstr "Ascending"
+
+msgid "Váš pracovní"
+msgstr "Your"
+
+msgid "Váš pracovní prostor"
+msgstr "Your workspace"
+
+msgid "Váš účet má roli"
+msgstr "Your account role is"
+
+msgid "Výměna poškozené pracovní desky a kontrola uchycení."
+msgstr "Replace the damaged worktop and inspect its fixings."
+
+msgid "Výměna svítidel"
+msgstr "Light fixture replacement"
+
+msgid "VŠE DŮLEŽITÉ NA JEDNOM MÍSTĚ"
+msgstr "EVERYTHING IMPORTANT IN ONE PLACE"
+
+msgid "Všechny"
+msgstr "All jobs"
+
+msgid "Všichni"
+msgstr "All customers"
+
+msgid "Zadaná hesla se neshodují."
+msgstr "The passwords do not match."
+
+msgid "Zadaný obsah je příliš dlouhý."
+msgstr "The submitted content is too long."
+
+msgid "Zadat nový kontakt ručně"
+msgstr "Enter a new contact manually"
+
+msgid "Zadejte alespoň 2 znaky."
+msgstr "Enter at least 2 characters."
+
+msgid "Zakázka"
+msgstr "Job"
+
+msgid "Zakázka byla přeřazena k vybranému zákazníkovi."
+msgstr "The job has been reassigned to the selected customer."
+
+msgid "Zakázka je nyní přiřazena zákazníkovi"
+msgstr "The job is currently assigned to"
+
+msgid "Zakázky"
+msgstr "Jobs"
+
+msgid "Založeno"
+msgstr "Created"
+
+msgid "Založení"
+msgstr "Created"
+
+msgid "Založení zákazníka"
+msgstr "Customer created"
+
+msgid "Zatím není uložená kontaktní osoba."
+msgstr "No contact person has been added yet."
+
+msgid "Zatím není zaznamenaná žádná změna zákazníka ani jeho kontaktů."
+msgstr "No changes to this customer or their contacts have been recorded yet."
+
+msgid "Zkontrolovat načtené údaje"
+msgstr "Review recognised details"
+
+msgid "Zkontrolujte IČO dodavatele; rozpoznaná hodnota nevypadá platně."
+msgstr "Check the supplier company ID; this value does not look valid."
+
+msgid "Změna zákazníka"
+msgstr "Customer reassigned"
+
+msgid "Změnit zákazníka"
+msgstr "Change customer"
+
+msgid "Změnit zákazníka nebo kontakt…"
+msgstr "Change customer or contact…"
+
+msgid "Změnit zákazníka zakázky"
+msgstr "Change the job's customer"
+
+msgid "Změny"
+msgstr "Changes"
+
+msgid "Změny se neukládají. Vlastní soubory se nenahrávají."
+msgstr "Changes are not saved. Personal files cannot be uploaded."
+
+msgid "Změny se neuložily."
+msgstr "Your changes were not saved."
+
+msgid "Změny se v ukázce neukládají."
+msgstr "Changes are not saved in the demo."
+
+msgid "Změny se v ukázce neukládají. Formulář si můžete vyzkoušet, původní ukázková data zůstanou beze změny."
+msgstr "Changes are not saved in this demo. You can try the form; the original sample data will stay unchanged."
+
+msgid "Zobrazení"
+msgstr "View"
+
+msgid "Zobrazit historii zákazníka a jeho kontaktů"
+msgstr "View customer and contact history"
+
+msgid "Zobrazit všechny →"
+msgstr "View all →"
+
+msgid "Zpět na faktury"
+msgstr "Back to invoices"
+
+msgid "Zpět na portfolio ↗"
+msgstr "Back to portfolio ↗"
+
+msgid "Zpět na přehled"
+msgstr "Back to overview"
+
+msgid "Zpět na zakázku"
+msgstr "Back to job"
+
+msgid "Způsob platby"
+msgstr "Payment method"
+
+msgid "Zrušena"
+msgstr "Cancelled"
+
+msgid "Zrušené"
+msgstr "Cancelled"
+
+msgid "Zrušit"
+msgstr "Cancel"
+
+msgid "Zákazníci"
+msgstr "Customers"
+
+msgid "Zákazníci, zakázky, faktury a důležité informace přehledně na jednom místě."
+msgstr "Customers, jobs, invoices and important information clearly organised in one place."
+
+msgid "Zákazník"
+msgstr "Customer"
+
+msgid "Zákazník #"
+msgstr "Customer #"
+
+msgid "Zákazník odložil úpravy provozovny. Práce nebyly zahájeny."
+msgstr "The customer postponed the fit-out. Work has not started."
+
+msgid "Zákazník, termín, odpovědná osoba a stav práce vždy po ruce."
+msgstr "Customer, deadline, responsible person and job status always at hand."
+
+msgid "Zákazníka se zakázkami nelze trvale odstranit. Nejdříve ho archivujte."
+msgstr "A customer with jobs cannot be permanently deleted. Archive them first."
+
+msgid "Základ daně"
+msgstr "Net amount"
+
+msgid "bez e-mailu"
+msgstr "no email"
+
+msgid "bez telefonu"
+msgstr "no phone"
+
+msgid "bez čísla"
+msgstr "no number"
+
+msgid "historie zakázek"
+msgstr "job history"
+
+msgid "historie zákazníků"
+msgstr "customer history"
+
+msgid "kontaktní osoba"
+msgstr "contact person"
+
+msgid "kontaktní osoby"
+msgstr "contact people"
+
+msgid "odstraněno"
+msgstr "deleted"
+
+msgid "po hotovou zakázku."
+msgstr "to the finished job."
+
+msgid "prostor."
+msgstr "workspace."
+
+msgid "uživatelem"
+msgstr "by"
+
+msgid "zakázka"
+msgstr "job"
+
+msgid "zakázky"
+msgstr "jobs"
+
+msgid "změna zakázky"
+msgstr "job change"
+
+msgid "změna zákazníka"
+msgstr "customer change"
+
+msgid "zákazníci"
+msgstr "customers"
+
+msgid "zákazník"
+msgstr "customer"
+
+msgid "· PC WORKBASE"
+msgstr "· PC WORKBASE"
+
+msgid "· archivováno"
+msgstr "· archived"
+
+msgid "· faktura"
+msgstr "· invoice"
+
+msgid "Údaje faktury"
+msgstr "Invoice details"
+
+msgid "Údaje faktury byly upraveny."
+msgstr "Invoice details updated."
+
+msgid "Údaje zákazníka"
+msgstr "Customer details"
+
+msgid "Úhrada"
+msgstr "Payment"
+
+msgid "Úprava"
+msgstr "Updated"
+
+msgid "Úprava dvou pracovních stolů a ochranné hrany."
+msgstr "Adjustment of two workbenches and protective edges."
+
+msgid "Úprava faktury"
+msgstr "Invoice updated"
+
+msgid "Úprava kontaktu"
+msgstr "Contact updated"
+
+msgid "Úprava pracovních stolů"
+msgstr "Workbench adjustments"
+
+msgid "Úprava recepce"
+msgstr "Reception fit-out"
+
+msgid "Úprava zákazníka"
+msgstr "Customer updated"
+
+msgid "Úprava zázemí kavárny"
+msgstr "Cafe back-room fit-out"
+
+msgid "Úprava zázemí prodejny"
+msgstr "Shop back-room fit-out"
+
+msgid "Čeká"
+msgstr "Waiting"
+
+msgid "Čeká na úhradu"
+msgstr "Awaiting payment"
+
+msgid "Čekáme na finální rozmístění pracovních míst před montáží lišt."
+msgstr "Waiting for the final desk layout before installing cable trunking."
+
+msgid "Čekáme na potvrzení termínu dodání vybraných svítidel."
+msgstr "Waiting for confirmation of the selected light fixtures' delivery date."
+
+msgid "Člen"
+msgstr "Team member"
+
+msgid "Člen nemůže měnit fakturu u archivované nebo zrušené zakázky."
+msgstr "A team member cannot edit invoices for archived or cancelled jobs."
+
+msgid "Člen nemůže upravovat archivovanou nebo zrušenou zakázku."
+msgstr "A team member cannot edit archived or cancelled jobs."
+
+msgid "Čtu fakturu v telefonu…"
+msgstr "Reading the invoice on your device…"
+
+msgid "Číslo"
+msgstr "Number"
+
+msgid "Číslo faktury"
+msgstr "Invoice number"
+
+msgid "Číslo zakázky"
+msgstr "Job number"
+
+msgid "Číslo, zakázka nebo zákazník"
+msgstr "Number, job or customer"
+
+msgid "Řazení"
+msgstr "Sort by"
+
+msgid "Řešení lze přizpůsobit tomu, jak pracujete právě vy."
+msgstr "A solution can be tailored to the way your team works."
+
+msgid "Žádná zakázka neodpovídá filtru."
+msgstr "No jobs match your filters."
+
+msgid "Žádné skutečné zákaznické údaje."
+msgstr "No real customer data."
+
+msgid "Žádný zákazník neodpovídá filtru."
+msgstr "No customers match your filters."
+
+msgid "← Zpět"
+msgstr "← Back"
