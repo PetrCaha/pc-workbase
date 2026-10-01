@@ -17,7 +17,7 @@ Původní Zakázkovník, jeho databáze, nasazení a portfolio nebyly změněny.
 - Česká a anglická verze rozhraní, ukázkového obsahu, validace a exportů. Vlastní jména zůstávají stejná.
 - Zachované PDF shrnutí zakázky a CSV export; ochrana CSV před vzorci vloženými do textových hodnot.
 - Responzivní seznamy a formuláře s popisky, ovládání klávesnicí, viditelné zaměření a upravené mobilní rozložení.
-- Poznámky vysvětlující nedostupný archiv dokumentů a vystavování faktur. CTA vede na https://petrcaha.cz/#contact.
+- Poznámky vysvětlující nedostupný archiv dokumentů a vystavování faktur. Veřejné demo neobsahuje osobní kontaktní odkazy; smyšlené business kontakty zůstávají zachované.
 - Příprava pro samostatný Render a Neon, kontrolní příkazy a podrobný postup nasazení.
 
 ## Výsledky ověření

@@ -12,7 +12,7 @@ Původní aplikace se nemění. Nejde o hotový produkční systém pro zákazn�
 - Hledání, filtry, řazení, rychlé náhledy, PDF zakázky a CSV.
 - Formuláře s běžnou validací, ale bez ukládání.
 - CZ/EN a rozhraní přizpůsobené telefonu.
-- CTA na https://petrcaha.cz/#contact.
+- Veřejné demo bez osobních kontaktních odkazů; smyšlené business kontakty zůstávají součástí ukázky.
 
 Žádná analytika, vlastnické přihlášení, přepínání rolí, soubory návštěvníků,
 archiv dokumentů, vytváření PDF faktur nebo dočasná návštěvnická data.

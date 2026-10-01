@@ -129,7 +129,7 @@ pokud to instrukce Renderu vyžadují. Nezapínej cache HTML stránek aplikace.
 - Kontrola `verify_demo` stále projde i po uživatelském zkoušení.
 - Administrace a nahrávání souborů nejsou dostupné.
 - Na telefonu jsou čitelné detaily, seznamy i formuláře.
-- CTA vede na `https://petrcaha.cz/#contact`.
+- Veřejné stránky neobsahují osobní kontaktní odkazy ani kontaktní CTA; smyšlené business kontakty zůstávají zachované.
 
 Teprve potom sám aktualizuj odkaz na demo na portfoliu.
 

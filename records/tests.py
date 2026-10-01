@@ -148,8 +148,57 @@ class PublicDemoTests(TestCase):
         for forbidden in ('google-analytics','tesseract','cdn.jsdelivr','<script src="http'):
             self.assertNotContains(response,forbidden)
         self.assertIn("form-action 'self'",response['Content-Security-Policy'])
-    def test_portfolio_cta(self):
-        self.assertContains(self.client.get('/'),'https://petrcaha.cz/#contact')
+    def assert_no_personal_contact(self, text):
+        self.assertNotRegex(text.lower(), r'\b(?:mailto|tel):')
+        for forbidden in ('petrcaha.cz/#contact', 'portfolio_contact',
+                          'petr@petrcaha.cz', '777355055', '777 355 055',
+                          'linkedin.com', 'github.com/PetrCaha', 'facebook.com',
+                          'instagram.com', 'wa.me', 't.me/'):
+            self.assertNotIn(forbidden.lower(), text.lower())
+
+    def test_public_pages_have_no_personal_contact_in_either_language(self):
+        paths = ['/', '/login/', '/zakaznici/', '/zakaznici/1/',
+                 '/zakaznici/novy/', '/zakaznici/1/upravit/',
+                 '/zakaznici/1/kontakty/novy/', '/zakaznici/1/kontakty/1/upravit/',
+                 '/zakazky/', '/zakazky/1/', '/zakazky/nova/',
+                 '/zakazky/1/upravit/', '/zakazky/1/zmenit-zakaznika/',
+                 '/zakazky/1/faktury/nova/', '/zakazky/1/faktury/nova/ulozit/',
+                 '/zakazky/1/faktury/1/', '/zakazky/1/faktury/1/upravit/',
+                 '/uzivatele/', '/api/', '/api/customers/', '/api/jobs/',
+                 '/api/contacts/', '/jsi18n/', '/zakazky/export.csv']
+        for language in ('cs', 'en'):
+            self.client.cookies[settings.LANGUAGE_COOKIE_NAME] = language
+            for path in paths:
+                with self.subTest(language=language, path=path):
+                    response = self.client.get(path)
+                    self.assertEqual(response.status_code, 200)
+                    self.assert_no_personal_contact(response.content.decode())
+                    if response.context:
+                        self.assertIsNone(response.context.get('portfolio_contact'))
+            visitor = Client()
+            visitor.cookies[settings.LANGUAGE_COOKIE_NAME] = language
+            self.assert_no_personal_contact(visitor.get('/login/').content.decode())
+            with override_settings(DEBUG=False):
+                for client in (visitor, self.client):
+                    response = client.get('/missing-demo-page/')
+                    self.assertEqual(response.status_code, 404)
+                    self.assert_no_personal_contact(response.content.decode())
+                response = self.client.get('/uzivatele/novy/')
+                self.assertEqual(response.status_code, 403)
+                self.assert_no_personal_contact(response.content.decode())
+
+    def test_exports_keep_fictional_contacts_without_personal_contacts(self):
+        for language in ('cs', 'en'):
+            self.client.cookies[settings.LANGUAGE_COOKIE_NAME] = language
+            response = self.client.get('/zakazky/1/pdf/')
+            text = '\n'.join(page.extract_text() for page in
+                             PdfReader(BytesIO(b''.join(response.streaming_content))).pages)
+            self.assert_no_personal_contact(text)
+            self.assertIn('contact1@example.com', text)
+            csv = self.client.get('/zakazky/export.csv').content.decode()
+            self.assert_no_personal_contact(csv)
+            self.assertIn('contact1@example.com', csv)
+            self.assertContains(self.client.get('/api/contacts/1/'), 'contact1@example.com')
     def test_csrf_errors_do_not_leak_technical_details(self):
         with override_settings(DEBUG=False):
             response=Client(enforce_csrf_checks=True).post('/login/','',content_type='application/x-www-form-urlencoded')

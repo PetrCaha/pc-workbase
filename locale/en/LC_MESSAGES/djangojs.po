@@ -226,9 +226,6 @@ msgstr "Search jobs"
 msgid "Hledat zákazníka"
 msgstr "Search customers"
 
-msgid "Hodil by se vám podobný pracovní prostor?"
-msgstr "Could your team use a workspace like this?"
-
 msgid "Hodnota zakázek"
 msgstr "Job value"
 
@@ -286,9 +283,6 @@ msgstr "Contact"
 msgid "Kontakt pro zakázku"
 msgstr "Customer contact for this job"
 
-msgid "Kontakt ↗"
-msgstr "Contact ↗"
-
 msgid "Kontaktní osoby"
 msgstr "Contact people"
 
@@ -327,9 +321,6 @@ msgstr "Modelov Installations — fictional team"
 
 msgid "Montáže a servis provozoven"
 msgstr "Installation and servicing for small businesses"
-
-msgid "Mám zájem o podobné řešení ↗"
-msgstr "I'd like a similar solution ↗"
 
 msgid "Měna"
 msgstr "Currency"
@@ -979,9 +970,6 @@ msgstr "View all →"
 msgid "Zpět na faktury"
 msgstr "Back to invoices"
 
-msgid "Zpět na portfolio ↗"
-msgstr "Back to portfolio ↗"
-
 msgid "Zpět na přehled"
 msgstr "Back to overview"
 
@@ -1161,9 +1149,6 @@ msgstr "Number, job or customer"
 
 msgid "Řazení"
 msgstr "Sort by"
-
-msgid "Řešení lze přizpůsobit tomu, jak pracujete právě vy."
-msgstr "A solution can be tailored to the way your team works."
 
 msgid "Žádná zakázka neodpovídá filtru."
 msgstr "No jobs match your filters."
